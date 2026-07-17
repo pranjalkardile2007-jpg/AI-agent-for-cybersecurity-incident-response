@@ -9,11 +9,11 @@ Our project is an AI-powered incident response assistant that supports SOC opera
 
 •Automation – automating parts of the incident response process to reduce manual effort.
 
-Project Structure
-data/
-deployment/
-reports/
-src/
+Project Structure:
+◆data/
+◆deployment/
+◆reports/
+◆src/
 
 Author: Sneha Mishra, Shreya More, Isha Mandpe, Pranjal Kardile
 
