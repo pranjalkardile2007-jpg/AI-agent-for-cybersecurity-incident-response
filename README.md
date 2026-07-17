@@ -23,4 +23,4 @@ Project Structure:
 Author: Sneha Mishra, Shreya More, Isha Mandpe, Pranjal Kardile
 
 Demo Vedio:
-📽️ Project Demo:
+📽️ Project Demo:https://drive.google.com/file/d/1t51rHZcfQbP1FVTKMNrHbE6H2FmwrpKY/view?usp=drivesdk
