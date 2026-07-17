@@ -13,8 +13,11 @@ Our project is an AI-powered incident response assistant that supports SOC opera
 Project Structure:
 
 ◆data/
+
 ◆deployment/
+
 ◆reports/
+
 ◆src/
 
 Author: Sneha Mishra, Shreya More, Isha Mandpe, Pranjal Kardile
